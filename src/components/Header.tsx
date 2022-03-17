@@ -24,7 +24,7 @@ export const Header = () => {
       )}
 
       <Box mx="auto">
-        <Image src="/logo.svg" alt="Worldtrip" alignSelf="center" />
+        <Image src="/images/logo.svg" alt="Worldtrip" alignSelf="center" />
       </Box>
     </Flex>
   )
