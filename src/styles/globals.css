@@ -14,3 +14,18 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.swiper-button-prev,
+.swiper-button-next {
+  color: #ffba08 !important;
+}
+
+.swiper-pagination-bullet {
+  width: 16px;
+  height: 16px;
+  background-color: #999999 !important;
+}
+
+.swiper-pagination-bullet-active {
+  background-color: #ffba08 !important;
+}

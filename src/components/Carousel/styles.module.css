@@ -1,0 +1,9 @@
+.swiper {
+  height: 450px;
+}
+
+.slide {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
